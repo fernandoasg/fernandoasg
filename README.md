@@ -5,11 +5,9 @@
 <div>
   <a href="https://github.com/fernandoasg"
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandoasg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoasg&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-<div style="display: inline_block">
-  <br>
+<div>
   <img align="center" alt="c-sharp" height="48" width="48" style="margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
   <img align="center" alt="dotnet-core" height="48" width="48" style="margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />  
   <img align="center" alt="dotnet-core" height="48" width="48" style="margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />  
